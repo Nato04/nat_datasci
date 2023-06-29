@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/nato04-nat_datasci-wvya1om0/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "Y1MQ7jnLTiiOpH76ZYACMg",
+  "url": "http://jupyter-nato04-2dnat-5fdatasci-2dwvya1om0:8888/binder/jupyter/user/nato04-nat_datasci-wvya1om0/",
+  "version": "1.23.6"
+}
